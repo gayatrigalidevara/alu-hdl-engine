@@ -33,6 +33,3 @@ always @(*) begin
   endcase
 end
 endmodule
-5.2 Code Component Breakdown and Analysis
-Each section of the Verilog code plays a specific role in the ALU design. Below is a detailed 
-explanation of every compo
